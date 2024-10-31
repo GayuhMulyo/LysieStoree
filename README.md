@@ -22,7 +22,8 @@
     </li>
     </li>
     <h3>B O U Q E T</h3>
-    <img align="middle" src="c:\Users\PC 6\Pictures\e24333b1-32df-447f-9a41-6e3391232bda (1).jpeg" width="800"
+    <img align="middle" src="![e24333b1-32df-447f-9a41-6e3391232bda (1)](https://github.com/user-attachments/assets/a71589b5-5e13-445a-beb4-c74b522344c3)
+ (1).jpeg" width="800"
         height="500">
     <table style="margin-left:auto;margin-right:auto" border="1">
         <tr>
